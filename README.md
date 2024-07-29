@@ -2,7 +2,7 @@
 
 Just me exploring react using codespaces.
 
-**In the terminal: `cd exploringReact & npm run dev` to start!**
+**In the terminal: `cd exploringReact ; npm run dev` to start!**
 
 ## Getting started: Creating from scratch
 

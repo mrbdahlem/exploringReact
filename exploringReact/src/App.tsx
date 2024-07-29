@@ -18,7 +18,7 @@ function App() {
         <>
             <div className=" h-screen w-screen flex flex-col space-y-4 items-center justify-center dark:bg-gray-900 dark:text-white">
                 <CountButton onChange={handleChange} />
-                <div>{count}</div>
+                <div>Someone has clicked {count} times.</div>
             </div>
         </>
     );
